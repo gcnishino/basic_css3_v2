@@ -1,0 +1,12 @@
+html {
+  font-size: 32px;
+}
+
+h1 {
+  font-size: 2em;  /* 直接親の２倍 */
+  font-size: 2rem;  /* 最親の２倍 */
+}
+
+span {
+  font-size: 0.5em;
+}
